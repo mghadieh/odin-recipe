@@ -1,0 +1,41 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1rem;
+    background-color: #a8d5ee;
+}
+
+.header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.subheader {
+    text-decoration: underline;
+}
+
+img{
+    width: auto;
+}
+
+/*** Index.html ***/
+
+.main__list{
+    list-style: none;
+}
+
+.main__list > li{
+    display: block;
+    padding:1em;
+   
+}
+
+a{
+    text-decoration: none;
+}
+
+
+/*** Lasagna ***/
+.lasagna {
+    height: auto;
+    width: 550px;
+}
